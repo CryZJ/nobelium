@@ -1,6 +1,6 @@
 const BLOG = {
   title: '!',
-  author: '🐟',
+  author: 'Zeekim',
   email: 'ohmygod@email.cn',
   link: 'https://spacegrey.top',
   description: 'Moments that worth sharing.',
