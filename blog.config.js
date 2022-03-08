@@ -1,22 +1,22 @@
 const BLOG = {
   title: '!',
-  author: 'Yu',
+  author: '🐟',
   email: 'ohmygod@email.cn',
   link: 'https://spacegrey.top',
-  description: 'This gonna be an awesome website.',
+  description: 'Moments that worth sharing.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2020, // If leave this empty, current year will be used.
+  since: '', // If leave this empty, current year will be used.
   postsPerPage: 7,
   sortByDate: false,
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://og-image-craigary.vercel.app/**Hello**.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fnobelium.vercel.app%2Flogo-for-dark-bg.svg&widths=auto', // The link to generate OG image, don't end with a slash
   socialLink: 'https://weibo.com/u/7328113462',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
