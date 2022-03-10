@@ -1,9 +1,9 @@
 const BLOG = {
-  title: '!',
+  title: 'I loved you',
   author: 'Zeekim',
   email: 'ohmygod@email.cn',
   link: 'https://spacegrey.top',
-  description: 'Moments that worth sharing.',
+  description: 'stranger.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -11,7 +11,7 @@ const BLOG = {
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: '', // If leave this empty, current year will be used.
-  postsPerPage: 7,
+  postsPerPage: 10,
   sortByDate: false,
   showAbout: true,
   showArchive: true,
