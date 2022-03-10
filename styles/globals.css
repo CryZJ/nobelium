@@ -139,3 +139,15 @@ nav {
     @apply bg-day bg-opacity-90 dark:bg-night dark:bg-opacity-90;
   }
 }
+
+#__next > div > div > div.mt-6.flex-shrink-0.m-auto.w-full.text-gray-500.dark\:text-gray-400.transition-all.max-w-2xl.px-4 > hr {
+  display: none !important;
+}
+
+#__next > div > div > div.mt-6.flex-shrink-0.m-auto.w-full.text-gray-500.dark\:text-gray-400.transition-all.max-w-2xl.px-4 > div > div {
+  display: none !important;
+}
+
+.mt-2 {
+  display: none !important;
+}
