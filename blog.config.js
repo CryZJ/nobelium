@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Zeekim',
   email: 'ohmygod@email.cn',
   link: 'https://youloved.me/',
-  description: 'see the wonders in life.',
+  description: 'showing wonders in life.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'serif', // ['sans-serif', 'serif']
