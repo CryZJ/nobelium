@@ -2,11 +2,11 @@ const BLOG = {
   title: 'Kaleidoscope',
   author: 'Zeekim',
   email: 'ohmygod@email.cn',
-  link: 'https://youloved.me',
-  description: '',
+  link: 'https://youloved.me/',
+  description: 'see the wonders in life.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
-  font: 'sans-serif', // ['sans-serif', 'serif']
+  font: 'serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
