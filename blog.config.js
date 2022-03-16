@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'I loved you',
+  title: 'Kaleidoscope',
   author: 'Zeekim',
   email: 'ohmygod@email.cn',
-  link: 'https://spacegrey.top',
-  description: 'stranger.',
+  link: 'https://youloved.me',
+  description: '',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
