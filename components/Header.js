@@ -9,7 +9,7 @@ const NavBar = () => {
     { id: 0, name: 'Kaleidoscope', to: BLOG.path || '/', show: true },
     { id: 1, name: locale.NAV.ABOUT, to: '/about', show: BLOG.showAbout },
     { id: 2, name: locale.NAV.RSS, to: '/feed', show: false },
-    { id: 3, name: 'Whispering', to: '/whispering', show: true },
+    { id: 3, name: 'Whispering', to: '/whis_redir', show: true },
     { id: 4, name: locale.NAV.SEARCH, to: '/search', show: true }
   ]
   return (
