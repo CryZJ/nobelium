@@ -1,9 +1,9 @@
 const BLOG = {
   title: 'Kaleidoscope',
-  author: 'Zeekim',
-  email: 'ohmygod@email.cn',
+  author: '子健',
+  email: 'hola.zijian@outlook.com',
   link: 'https://youloved.me/',
-  description: 'showing wonders in life.',
+  description: 'My blog.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
